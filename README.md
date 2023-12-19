@@ -1,3 +1,3 @@
 # Demo
 
-Some description!
+Hey! This is my first Git Project.
